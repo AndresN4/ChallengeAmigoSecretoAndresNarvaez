@@ -42,6 +42,18 @@ Este proyecto es una aplicación sencilla que permite a los usuarios ingresar no
 
 ![image](https://github.com/user-attachments/assets/6467dcd3-59b5-413b-b8f4-7e5dc1beca96)
 
+LISTA DE AMIGOS INGRESADOS (VERDE)  NUMERO DE AMIGOS INGRESADOS
+
+![image](https://github.com/user-attachments/assets/64ae5afe-5df4-4f5b-a39e-733384e0b925)
+
+MENSAJES DE ALERTA 
+
+![image](https://github.com/user-attachments/assets/4c1da6c4-0064-4dc6-a776-59826ffb4e10)
+
+![image](https://github.com/user-attachments/assets/2885d760-ff99-407c-9100-eb344f83eaa8)
+
+
+
 
 ## 📜 Licencia
 
