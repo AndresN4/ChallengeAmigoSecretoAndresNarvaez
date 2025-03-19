@@ -40,6 +40,7 @@ Este proyecto es una aplicación sencilla que permite a los usuarios ingresar no
 2. Repite el proceso para agregar más nombres a la lista.
 3. Haz clic en "Sortear Amigo" para seleccionar aleatoriamente un nombre de la lista.
 
+![image](https://github.com/user-attachments/assets/6467dcd3-59b5-413b-b8f4-7e5dc1beca96)
 
 
 ## 📜 Licencia
